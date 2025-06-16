@@ -1,0 +1,6 @@
+Demographic:A,S
+PersonAttribute:A,S,E
+SocioEconomic:E,O
+Location:R
+PersonalChoice:E,O,R
+HumanAttribute:A,S,E,O

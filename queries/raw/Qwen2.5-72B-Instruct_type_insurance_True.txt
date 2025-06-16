@@ -1,0 +1,9 @@
+PersonTrait: GoodStudent,RiskAversion,DrivQuality,DrivingSkill
+Demographic: Age,SocioEcon
+VehicleAttribute: VehicleYear,MakeModel,Antilock,Airbag,Cushioning,HomeBase,AntiTheft
+Event: Accident,Theft
+Cost: ThisCarCost,PropCost,OtherCarCost,MedCost,ILiCost
+Usage: Mileage
+Training: SeniorTrain
+VehicleCondition: ThisCarDam,RuggedAuto
+OtherVehicle: OtherCar

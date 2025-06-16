@@ -1,0 +1,13 @@
+demographic: Age, Sex
+personal_attribute: Age, Sex, Education, Occupation
+fixed: Sex
+temporal: Age
+education_related: Education, Occupation
+socioeconomic: Education, Occupation, Residence
+location: Residence, Travel
+mobility: Travel
+choice: Education, Occupation, Residence, Travel
+changeable: Age, Education, Occupation, Residence, Travel
+status: Education, Occupation, Residence
+activity: Occupation, Travel
+lifestyle: Occupation, Residence, Travel

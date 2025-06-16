@@ -1,0 +1,7 @@
+Event: Burglary, Earthquake
+AlarmTrigger: Burglary, Earthquake, Alarm
+Communication: JohnCalls, MaryCalls
+Response: Alarm, JohnCalls, MaryCalls
+NaturalDisaster: Earthquake
+Crime: Burglary
+HumanActivity: JohnCalls, MaryCalls

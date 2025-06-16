@@ -1,0 +1,11 @@
+OxygenLevel:HypoxiaInO2,LowerBodyO2,RUQO2
+CarbonDioxideLevel:CO2
+MedicalImaging:ChestXray,XrayReport
+Symptom:Grunting,GruntingReport
+DiseaseState:Disease,Sick
+Age:Age
+MedicalConditionReport:LVHreport,CO2Report
+CardiovascularCondition:LVH,CardiacMixing,LungFlow
+RespiratoryCondition:LungParench,DuctFlow
+BirthComplication:BirthAsphyxia
+HemodynamicParameter:HypDistrib

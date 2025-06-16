@@ -1,0 +1,13 @@
+Vehicle: VehicleYear, MakeModel, Mileage, ThisCarDam, RuggedAuto, Antilock, Airbag, AntiTheft, OtherCar, OtherCarCost
+Cost: ThisCarCost, OtherCarCost, PropCost, MedCost, ILiCost
+Driver: DrivingSkill, DrivHist, DrivQuality, SeniorTrain
+Accident: Accident, ThisCarDam, MedCost
+Theft: Theft, AntiTheft
+Economic: SocioEcon, CarValue, PropCost, ILiCost
+Protection: Antilock, Airbag, Cushioning, AntiTheft
+Demographic: Age, SocioEcon, HomeBase
+Performance: DrivQuality, Mileage, VehicleYear
+Risk: RiskAversion, Accident, Theft
+Student: GoodStudent, Age 
+Insurance: ILiCost, MedCost, PropCost 
+Ownership: ThisCarCost, OtherCarCost, CarValue

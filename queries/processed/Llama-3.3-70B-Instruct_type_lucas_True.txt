@@ -1,0 +1,7 @@
+Health_Consequence:Yellow_Fingers,Fatigue,Coughing,Lung_Cancer
+Mental_Health:Anxiety,Attention_Disorder
+Habit:Smoking
+Social_Influence:Peer_Pressure
+Genetic_Factor:Genetics
+Random_Event:Car_Accident,Born_an_Even_Day
+Medical_Condition:Allergy

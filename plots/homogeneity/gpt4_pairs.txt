@@ -1,0 +1,79 @@
+ & \textbf{Cancer} & & \nonumber \\
+\text{``Health-related''} &~\rightarrow~ \text{``Medical-condition''} && (66\% ~/~ 3~~) \nonumber \\
+ & \textbf{Earthquake} & & \nonumber \\
+\text{``AlarmTrigger''} &~\rightarrow~ \text{``Response''} && (100\% ~/~ 4~~) \nonumber \\
+ & \textbf{Survey} & & \nonumber \\
+\text{``Demographic''} &~\rightarrow~ \text{``Socioeconomic''} && (66\% ~/~ 6~~) \nonumber \\
+ & \textbf{Asia} & & \nonumber \\
+\text{``Smoking-Related''} &~\rightarrow~ \text{``Disease''} && (100\% ~/~ 3~~) \nonumber \\
+ & \textbf{Lucas} & & \nonumber \\
+\text{``Health\_Risk''} &~\rightarrow~ \text{``Physical\_Symptoms''} && (71\% ~/~ 7~~) \nonumber \\
+\text{``Health\_Risk''} &~\rightarrow~ \text{``Cancer\_Related''} && (57\% ~/~ 7~~) \nonumber \\
+\text{``Cancer\_Related''} &~\rightarrow~ \text{``Physical\_Symptoms''} && (75\% ~/~ 4~~) \nonumber \\
+\text{``Respiratory\_Issue''} &~\rightarrow~ \text{``Physical\_Symptoms''} && (75\% ~/~ 4~~) \nonumber \\
+ & \textbf{Child} & & \nonumber \\
+\text{``MedicalCondition''} &~\rightarrow~ \text{``GasLevels''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``MedicalCondition''} &~\rightarrow~ \text{``OxygenLevels''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``LungRelated''} &~\rightarrow~ \text{``Imaging''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``MedicalCondition''} &~\rightarrow~ \text{``LungRelated''} && (75\% ~/~ 4~~) \nonumber \\
+\text{``MedicalCondition''} &~\rightarrow~ \text{``BloodFlow''} && (66\% ~/~ 3~~) \nonumber \\
+ & \textbf{Insurance} & & \nonumber \\
+\text{``VehicleAttributes''} &~\rightarrow~ \text{``SafetyFeatures''} && (85\% ~/~ 7~~) \nonumber \\
+\text{``VehicleAttributes''} &~\rightarrow~ \text{``AccidentRelated''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``PersonalTraits''} &~\rightarrow~ \text{``RiskFactors''} && (66\% ~/~ 6~~) \nonumber \\
+\text{``PersonalTraits''} &~\rightarrow~ \text{``SecurityFeatures''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``PersonalTraits''} &~\rightarrow~ \text{``Training''} && (66\% ~/~ 6~~) \nonumber \\
+\text{``PersonalTraits''} &~\rightarrow~ \text{``VehicleAttributes''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``VehicleCondition''} &~\rightarrow~ \text{``VehicleAttributes''} && (57\% ~/~ 7~~) \nonumber \\
+\text{``VehicleAttributes''} &~\rightarrow~ \text{``VehicleCost''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``VehicleAttributes''} &~\rightarrow~ \text{``VehicleValue''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``VehicleCondition''} &~\rightarrow~ \text{``VehicleCost''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``VehicleCondition''} &~\rightarrow~ \text{``VehicleValue''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``AccidentRelated''} &~\rightarrow~ \text{``DamageCost''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``PersonalTraits''} &~\rightarrow~ \text{``AccidentRelated''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``RiskFactors''} &~\rightarrow~ \text{``AccidentRelated''} && (75\% ~/~ 4~~) \nonumber \\
+\text{``RiskFactors''} &~\rightarrow~ \text{``DamageCost''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``VehicleAttributes''} &~\rightarrow~ \text{``DamageCost''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``PersonalTraits''} &~\rightarrow~ \text{``EconomicStatus''} && (60\% ~/~ 5~~) \nonumber \\
+\text{``PersonalTraits''} &~\rightarrow~ \text{``VehicleModel''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``VehicleCondition''} &~\rightarrow~ \text{``SafetyFeatures''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``VehicleModel''} &~\rightarrow~ \text{``VehicleAttributes''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``VehicleValue''} &~\rightarrow~ \text{``VehicleCost''} && (75\% ~/~ 4~~) \nonumber \\
+\text{``VehicleCondition''} &~\rightarrow~ \text{``AccidentRelated''} && (66\% ~/~ 3~~) \nonumber \\
+\text{``VehicleValue''} &~\rightarrow~ \text{``DamageCost''} && (66\% ~/~ 3~~) \nonumber \\
+\text{``EconomicStatus''} &~\rightarrow~ \text{``RiskFactors''} && (66\% ~/~ 3~~) \nonumber \\
+\text{``RiskFactors''} &~\rightarrow~ \text{``VehicleCondition''} && (66\% ~/~ 3~~) \nonumber \\
+\text{``RiskFactors''} &~\rightarrow~ \text{``VehicleCost''} && (66\% ~/~ 3~~) \nonumber \\
+\text{``RiskFactors''} &~\rightarrow~ \text{``VehicleValue''} && (66\% ~/~ 3~~) \nonumber \\
+ & \textbf{Alarm} & & \nonumber \\
+\text{``Ventilation''} &~\rightarrow~ \text{``Respiration''} && (62\% ~/~ 8~~) \nonumber \\
+\text{``AirwayObstruction''} &~\rightarrow~ \text{``Ventilation''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``AirwayObstruction''} &~\rightarrow~ \text{``Respiration''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``Intubation''} &~\rightarrow~ \text{``Ventilation''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``VentilatorLung''} &~\rightarrow~ \text{``Ventilation''} && (66\% ~/~ 3~~) \nonumber \\
+\text{``VentilatorSettings''} &~\rightarrow~ \text{``Ventilation''} && (66\% ~/~ 3~~) \nonumber \\
+\text{``Ventilation''} &~\rightarrow~ \text{``VentilatorTube''} && (66\% ~/~ 3~~) \nonumber \\
+ & \textbf{Hailfinder} & & \nonumber \\
+\text{``ScenarioRelated''} &~\rightarrow~ \text{``Forecasting''} && (80\% ~/~ 5~~) \nonumber \\
+\text{``ScenarioRelated''} &~\rightarrow~ \text{``WindRelated''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``CINRelated''} &~\rightarrow~ \text{``ScenarioRelated''} && (60\% ~/~ 5~~) \nonumber \\
+\text{``Instability''} &~\rightarrow~ \text{``MountainRelated''} && (75\% ~/~ 4~~) \nonumber \\
+\text{``ScenarioRelated''} &~\rightarrow~ \text{``Instability''} && (60\% ~/~ 5~~) \nonumber \\
+\text{``ScenarioRelated''} &~\rightarrow~ \text{``Temperature''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``MountainRelated''} &~\rightarrow~ \text{``CloudCover''} && (66\% ~/~ 3~~) \nonumber \\
+ & \textbf{Hepar2} & & \nonumber \\
+\text{``disease\_condition''} &~\rightarrow~ \text{``blood\_related''} && (100\% ~/~ 40~~) \nonumber \\
+\text{``disease\_condition''} &~\rightarrow~ \text{``symptoms''} && (100\% ~/~ 14~~) \nonumber \\
+\text{``disease\_condition''} &~\rightarrow~ \text{``body\_condition''} && (100\% ~/~ 7~~) \nonumber \\
+\text{``disease\_condition''} &~\rightarrow~ \text{``liver\_related''} && (75\% ~/~ 8~~) \nonumber \\
+\text{``medical\_procedure''} &~\rightarrow~ \text{``blood\_related''} && (100\% ~/~ 5~~) \nonumber \\
+\text{``disease\_condition''} &~\rightarrow~ \text{``hepatitis\_markers''} && (100\% ~/~ 5~~) \nonumber \\
+\text{``medical\_procedure''} &~\rightarrow~ \text{``hepatitis\_markers''} && (100\% ~/~ 5~~) \nonumber \\
+\text{``disease\_condition''} &~\rightarrow~ \text{``body\_part''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``demographics''} &~\rightarrow~ \text{``disease\_condition''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``medical\_procedure''} &~\rightarrow~ \text{``disease\_condition''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``disease\_condition''} &~\rightarrow~ \text{``spleen\_related''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``liver\_related''} &~\rightarrow~ \text{``symptoms''} && (100\% ~/~ 3~~) \nonumber \\
+ & \textbf{Win95Pts} & & \nonumber \\
+\text{``PrinterStatus''} &~\rightarrow~ \text{``PrinterData''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``PrinterPostScript''} &~\rightarrow~ \text{``Problem''} && (100\% ~/~ 3~~) \nonumber \\

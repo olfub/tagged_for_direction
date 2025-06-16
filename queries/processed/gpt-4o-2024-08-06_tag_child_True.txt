@@ -1,0 +1,11 @@
+Oxygen:BirthAsphyxia,HypoxiaInO2,LowerBodyO2,RUQO2
+Respiratory:BirthAsphyxia,HypDistrib,HypoxiaInO2,Grunting,LungParench,LungFlow
+Cardiac:LVH,DuctFlow,CardiacMixing,LVHreport
+Imaging:ChestXray,XrayReport
+Report:LVHreport,CO2Report,XrayReport,GruntingReport
+AgeRelated:Age
+DiseaseIndicator:Disease,Sick
+CO2:CO2,CO2Report
+Symptom:Grunting,GruntingReport
+BloodFlow:DuctFlow,LungFlow
+Lung:LungParench,LungFlow,LowerBodyO2,RUQO2

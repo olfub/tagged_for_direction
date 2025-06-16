@@ -1,0 +1,16 @@
+medical_condition: BirthAsphyxia, Disease, Sick
+oxygen_related: HypDistrib, HypoxiaInO2, LowerBodyO2, RUQO2
+measurement: CO2, ChestXray, LVH
+diagnostic_report: LVHreport, CO2Report, XrayReport, GruntingReport
+symptom: Grunting
+demographic: Age
+cardiovascular: DuctFlow, CardiacMixing, LVH
+respiratory: LungParench, LungFlow, Grunting
+observable: Grunting, LVH, DuctFlow, CardiacMixing, LungParench, LungFlow
+test_result: ChestXray, CO2
+vital_sign: CO2, LowerBodyO2, RUQO2
+anatomical: LungParench, CardiacMixing
+flow_measure: DuctFlow, LungFlow
+distribution: HypDistrib
+raw_data: CO2, ChestXray, Grunting, LowerBodyO2, RUQO2
+derived_data: LVHreport, CO2Report, XrayReport, GruntingReport

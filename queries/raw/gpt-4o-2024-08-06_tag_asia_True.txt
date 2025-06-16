@@ -1,0 +1,13 @@
+Geography: Asia  
+Disease: Tuberculosis, Lung Cancer, Bronchitis  
+Respiratory: Tuberculosis, Lung Cancer, Bronchitis  
+Diagnosis: X-ray  
+RiskFactor: Smoking  
+Symptom: Either Tuberculosis or Lung Cancer  
+Imaging: X-ray  
+Region: Asia  
+HealthCondition: Tuberculosis, Lung Cancer, Bronchitis  
+Lifestyle: Smoking  
+Detection: X-ray  
+Pulmonary: Tuberculosis, Lung Cancer, Bronchitis  
+BinaryCondition: Either Tuberculosis or Lung Cancer

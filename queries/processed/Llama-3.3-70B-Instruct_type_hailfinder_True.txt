@@ -1,0 +1,12 @@
+Moisture:SatContMoist,RaoContMoist,CombMoisture,AreaMeso_ALS,AreaMoDryAir
+Clouds:VISCloudCov,IRCloudCover,CombClouds,CldShadeOth,CldShadeConv
+Mountain:AMInstabMt,InsInMt,OutflowFrMt,WindFieldMt
+Boundary:MorningBound,Boundaries
+Forecast:CompPlFcst,MountainFcst,PlainsFcst,N34StarFcst,R5Fcst
+VerticalMotion:N0_7muVerMo,SubjVertMo,QGVertMotion,CombVerMo
+Thermodynamics:Dewpoints,LowLLapse,MeanRH,MidLLapse,TempDis
+Wind:WndHodograph,WindAloft,WindFieldPln,SfcWndShfDis
+Instability:MorningCIN,AMCINInScen,LatestCIN,LLIW,CurPropConv
+Scenario:Date,Scenario,ScenRelAMCIN,ScenRelAMIns,ScenRel3_4,ScnRelPlFcst
+Features:MvmtFeatures,RHRatio,SynForcng
+Convection:CapChange,InsChange,LoLevMoistAd,CapInScen,InsSclInScen,AMInsWliScen

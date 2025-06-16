@@ -1,0 +1,5 @@
+Geographic Location: Asia
+Disease: Tuberculosis, Lung Cancer, Bronchitis
+Medical Test: X-ray
+Behavior: Smoking
+Composite Outcome: Either Tuberculosis or Lung Cancer

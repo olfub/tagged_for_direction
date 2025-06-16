@@ -1,0 +1,4 @@
+Environmental Factor: Pollution
+Health Behavior: Smoker
+Health Condition: Cancer, Dyspnoea
+Diagnostic Procedure: Xray

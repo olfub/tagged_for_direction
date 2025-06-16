@@ -1,0 +1,4 @@
+Geographical:asia
+Disease:tub,lung,either,bronc
+Behavior:smoke
+MedicalTest:xray

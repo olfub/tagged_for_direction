@@ -1,0 +1,10 @@
+measurement:N0_7muVerMo,SubjVertMo,QGVertMotion,CombVerMo,AreaMeso_ALS,SatContMoist,RaoContMoist,CombMoisture,AreaMoDryAir,VISCloudCov,IRCloudCover,CombClouds,CldShadeOth,AMInstabMt,InsInMt,WndHodograph,OutflowFrMt
+boundary_condition:MorningBound,Boundaries,CldShadeConv
+forecast:CompPlFcst,MountainFcst,PlainsFcst,N34StarFcst,R5Fcst
+temporal:Date,Scenario
+stability_index:ScenRelAMCIN,MorningCIN,AMCINInScen,CapInScen,ScenRelAMIns,LIfr12ZDENSd,AMDewptCalPl,AMInsWliScen,InsSclInScen,ScenRel3_4,LatestCIN,LLIW
+trend:CapChange,LoLevMoistAd,InsChange
+current_condition:CurPropConv,ScnRelPlFcst
+atmospheric_parameter:Dewpoints,LowLLapse,MeanRH,MidLLapse,RHRatio,TempDis
+wind_parameter:MvmtFeatures,SfcWndShfDis,WindAloft,WindFieldMt,WindFieldPln
+synoptic:SynForcng

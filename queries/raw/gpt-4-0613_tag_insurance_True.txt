@@ -1,0 +1,15 @@
+PersonalTraits: GoodStudent, Age, SocioEcon, RiskAversion, DrivingSkill, DrivHist, SeniorTrain
+VehicleAttributes: VehicleYear, RuggedAuto, MakeModel, Mileage, Antilock, Cushioning, Airbag
+AccidentRelated: ThisCarDam, Accident, DrivQuality, MedCost
+VehicleCost: ThisCarCost, CarValue, PropCost, OtherCarCost
+SecurityFeatures: AntiTheft, HomeBase
+InsuranceCost: ILiCost
+TheftRelated: Theft, OtherCar
+Training: DrivingSkill, SeniorTrain
+VehicleCondition: VehicleYear, ThisCarDam, RuggedAuto, Mileage
+VehicleValue: ThisCarCost, CarValue, OtherCarCost
+SafetyFeatures: Antilock, Cushioning, Airbag
+DamageCost: ThisCarDam, PropCost, OtherCarCost, MedCost
+RiskFactors: RiskAversion, DrivHist, Accident, Theft
+EconomicStatus: SocioEcon, HomeBase
+VehicleModel: MakeModel, OtherCar

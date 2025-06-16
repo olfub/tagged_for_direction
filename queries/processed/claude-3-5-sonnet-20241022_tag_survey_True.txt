@@ -1,0 +1,13 @@
+demographic:A,S
+personal_attribute:A,S,E,O
+fixed:S
+temporal:A
+education_related:E,O
+socioeconomic:E,O,R
+location:R,t
+mobility:t
+choice:E,O,R,t
+changeable:A,E,O,R,t
+status:E,O,R
+activity:O,t
+lifestyle:O,R,t

@@ -1,0 +1,24 @@
+Status: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff, PTROFFLINE, PrtOn
+Resource: PrtPaper, TnrSpply, PrtMem, AvlblVrtlMmry
+Configuration: NtwrkCnfg, DrvSet, GrphcsRltdDrvrSttngs
+Driver: PrtDriver, DrvOK
+Network: NetPrint, NetOK, NtSpd
+Hardware: PrtCbl, PrtPort, CblPrtHrdwrOK
+Path: PrtPath, PrtMpTPth
+Connection: PC2PRT, LclOK, DS_NTOK, DS_LCLOK
+Application: AppOK, DSApplctn, AppDtGnTm
+Data: AppData, DataFile, PrtData, PrtDataOut
+Process: PrtThread, PrtSpool, DskLocal
+Graphics: GDIIN, GDIOUT, EPSGrphc, NnPSGrphc, PSGRAPHIC
+Font: TrTypFnts, FntInstlltn, ScrnFntNtPrntrFnt
+Output: GrbldOtpt, IncmpltPS, GrbldPS
+State: EMFOK, TTOK, NnTTOK
+Quality: PgOrnttnOK, PrntngArOK, CmpltPgPrntd
+Performance: DeskPrntSpd, PrntPrcssTm, HrglssDrtnAftrPrnt
+Error: PrtTimeOut, FllCrrptdBffr, PSERRMEM
+Interface: PrtFile, PrtIcon, PrtQueue, PrtSel
+PostScript: PrtPScript, TstpsTxt
+LocalState: LclGrbld, NtGrbld
+Problem: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6
+Repeat: REPEAT
+PrinterAcceptance: PrntrAccptsTrtyp

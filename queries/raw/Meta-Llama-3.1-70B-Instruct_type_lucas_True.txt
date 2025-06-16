@@ -1,0 +1,5 @@
+Disease: Lung_Cancer, Allergy, Attention_Disorder 
+Symptom: Fatigue, Coughing, Yellow_Fingers, Anxiety 
+Habit: Smoking 
+Event: Car_Accident, Born_an_Even_Day 
+Influence: Peer_Pressure, Genetics

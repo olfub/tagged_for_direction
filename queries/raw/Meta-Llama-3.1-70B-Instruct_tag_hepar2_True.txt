@@ -1,0 +1,21 @@
+liver_condition: hepatotoxic, PBC, fibrosis, Steatosis, Cirrhosis, Hyperbilirubinemia, RHepatitis, ChHepatitis, THepatitis, hepatitis, carcinoma, hepatomegaly, hepatalgia, irregular_liver
+inflammation: Steatosis, hepatitis, RHepatitis, ChHepatitis, THepatitis, hepatomegaly, hepatalgia, pancreatitis
+infection: RHepatitis, ChHepatitis, THepatitis, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+enzyme_level: alt, ast, amylase, ggtp, cholesterol
+hematology: platelet, inr, bleeding, anemia, le_cells
+gastrointestinal: nausea, vomiting, diarrhea, abdominal_pain, pain_ruq, pressure_ruq, flatulence, gallstones, choledocholithotomy
+general_health: age, sex, fatigue, pain, edema
+autoimmune: PBC, ama, le_cells
+bilirubin_level: bilirubin, Hyperbilirubinemia, jaundice
+protein_level: proteins, albumin
+pain_level: upper_pain, pain_ruq, pressure_ruq, pain
+surgery: hospital, surgery, choledocholithotomy, injections, transfusion
+alcohol_consumption: alcoholism, alcohol
+lipid_level: triglycerides, cholesterol
+kidney_function: urea, creatinine
+skin_condition: skin, itching, spiders, palms, jaundice
+tumor: carcinoma, hepatomegaly, spleen, consciousness
+gastro_symptom: anorexia, nausea, vomiting, diarrhea, flatulence
+transaminase: alt, ast, ggtp
+coagulation: platelet, inr, bleeding
+biliary_condition: PBC, gallstones, choledocholithotomy, jaundice, Hyperbilirubinemia

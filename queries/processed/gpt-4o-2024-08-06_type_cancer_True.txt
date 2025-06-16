@@ -1,0 +1,4 @@
+Environmental_Factor:Pollution
+Behavioral_Factor:Smoker
+Health_Condition:Cancer,Dyspnoea
+Diagnostic_Test:Xray

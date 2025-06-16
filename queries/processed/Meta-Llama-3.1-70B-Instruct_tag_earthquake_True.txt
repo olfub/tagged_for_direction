@@ -1,0 +1,5 @@
+Event:Burglary,Earthquake,Alarm
+AlarmTrigger:Burglary,Earthquake
+Person:JohnCalls,MaryCalls
+Call:JohnCalls,MaryCalls
+AlarmSignal:Alarm,JohnCalls,MaryCalls

@@ -1,0 +1,4 @@
+HealthCondition: Cancer, Dyspnoea
+DiagnosticTool: Xray
+BehavioralFactor: Smoker
+EnvironmentalFactor: Pollution

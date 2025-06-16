@@ -1,0 +1,10 @@
+Environment: Pollution  
+Health: Cancer, Dyspnoea  
+Lifestyle: Smoker  
+MedicalTest: Xray  
+Respiratory: Dyspnoea  
+Diagnosis: Cancer, Xray  
+RiskFactor: Pollution, Smoker  
+Symptom: Dyspnoea  
+Imaging: Xray  
+Disease: Cancer

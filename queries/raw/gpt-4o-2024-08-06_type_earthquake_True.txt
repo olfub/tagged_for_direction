@@ -1,0 +1,4 @@
+NaturalEvent: Earthquake  
+CriminalActivity: Burglary  
+AlarmSystem: Alarm  
+HumanResponse: JohnCalls, MaryCalls

@@ -1,0 +1,10 @@
+disease:alcoholism,THepatitis,ChHepatitis,PBC,fibrosis,diabetes,obesity,Steatosis,Cirrhosis,RHepatitis,carcinoma
+demographic:sex,age
+procedure:surgery,choledocholithotomy,injections,transfusion
+symptom:fatigue,itching,upper_pain,pain_ruq,pressure_ruq,pain,edema,bleeding,flatulence,hepatalgia,anorexia,nausea
+physical_finding:skin,joints,hepatomegaly,spleen,consciousness,spiders,jaundice,edge,irregular_liver,palms
+substance:alcohol,fat
+lab_test:vh_amn,bilirubin,phosphatase,ama,le_cells,proteins,platelet,inr,urea,density,ESR,alt,ast,amylase,ggtp,cholesterol,albumin
+serology:hbsag,hbsag_anti,hbc_anti,hcv_anti,hbeag
+risk_factor:hepatotoxic,gallstones
+complication:Hyperbilirubinemia,triglycerides,encephalopathy,ascites

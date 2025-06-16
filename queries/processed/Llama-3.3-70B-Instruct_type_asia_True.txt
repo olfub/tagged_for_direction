@@ -1,0 +1,5 @@
+Disease:tub,lung,bronc
+Location:asia
+Behavior:smoke
+DiagnosticTool:xray
+CompositeDisease:either

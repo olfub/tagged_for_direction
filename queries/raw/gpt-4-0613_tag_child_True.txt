@@ -1,0 +1,13 @@
+MedicalCondition: BirthAsphyxia, HypDistrib, HypoxiaInO2, Disease, LungParench, Sick
+GasLevels: CO2, LowerBodyO2, RUQO2
+Imaging: ChestXray, XrayReport
+RespiratorySymptoms: Grunting, GruntingReport
+CardiacSymptoms: LVHreport, LVH, CardiacMixing, DuctFlow
+AgeRelated: Age
+OxygenLevels: HypoxiaInO2, LowerBodyO2, RUQO2
+Report: LVHreport, CO2Report, XrayReport, GruntingReport
+LungRelated: ChestXray, LungParench, LungFlow
+BloodFlow: HypDistrib, DuctFlow, LungFlow
+CO2Related: CO2, CO2Report
+HeartRelated: LVHreport, LVH, CardiacMixing
+PatientStatus: Sick

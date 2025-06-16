@@ -1,0 +1,12 @@
+Liver_Disease:hepatotoxic,THepatitis,ChHepatitis,RHepatitis,PBC,fibrosis,Cirrhosis,Steatosis,Hyperbilirubinemia,hepatomegaly,hepatalgia,irregular_liver,carcinoma
+Blood_Test:bilirubin,phosphatase,alt,ast,amylase,ggtp,cholesterol,platelet,inr,urea,albumin,edge
+Symptom:fatigue,itching,upper_pain,pain_ruq,pressure_ruq,pain,nausea,anorexia,flatulence,jaundice,bleeding,encephalopathy,ascites,spiders,palms
+Demographic:sex,age
+Medical_Procedure:hospital,surgery,injections,transfusion,choledocholithotomy
+Infection:hbsag,hbsag_anti,hbc_anti,hcv_anti,hbeag
+Body_Part:skin,joints,spleen,gallstones
+Substance:alcohol,triglycerides,proteins,fat
+Lab_Result:ESR,density,le_cells,ama
+Digestive_Issue:gallstones,choledocholithotomy,obesity,diabetes
+Virus:vh_amn
+Organ_Function:consciousness

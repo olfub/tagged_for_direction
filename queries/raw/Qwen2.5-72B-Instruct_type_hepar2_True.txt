@@ -1,0 +1,9 @@
+Disease: alcoholism, hepatotoxic, THepatitis, ChHepatitis, PBC, fibrosis, diabetes, obesity, Steatosis, Cirrhosis, Hyperbilirubinemia, RHepatitis, encephalopathy, hepatomegaly, hepatalgia, carcinoma
+Symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, pain, edema, bleeding, flatulence, anorexia, nausea, spleen, consciousness, spiders, jaundice, irregular_liver
+LabTest: bilirubin, phosphatase, ama, le_cells, proteins, platelet, inr, urea, density, ESR, alt, ast, amylase, ggtp, cholesterol, albumin, edge, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+MedicalProcedure: hospital, surgery, gallstones, choledocholithotomy, injections, transfusion
+Demographic: sex, age
+Biochemistry: triglycerides, fat, phosphatase, bilirubin, proteins, urea, cholesterol, albumin, amylase, ggtp, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+ClinicalSign: ascites, hepatomegaly, hepatalgia, jaundice, irregular_liver, spiders, palms, consciousness, anorexia, nausea, spleen, pain, edema, bleeding, flatulence, fatigue, itching, upper_pain, pain_ruq, pressure_ruq, ascites, skin, joints, alt, ast, amylase, ggtp, cholesterol, albumin, edge, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag, anorexia, nausea, spleen, consciousness, spiders, jaundice, irregular_liver
+Behavior: alcohol
+ViralInfection: THepatitis, ChHepatitis, RHepatitis, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag

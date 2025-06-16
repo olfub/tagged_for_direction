@@ -1,0 +1,6 @@
+Behavioral_Risk:Smoking,Yellow_Fingers,Peer_Pressure
+Mental_Health:Anxiety,Attention_Disorder
+Biological:Genetics,Allergy
+Environmental:Born_an_Even_Day,Car_Accident
+Physical_Symptom:Fatigue,Coughing
+Medical_Condition:Lung_Cancer

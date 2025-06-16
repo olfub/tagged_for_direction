@@ -1,0 +1,5 @@
+Disease: Tuberculosis, Lung Cancer, Bronchitis
+Location: Asia
+Behavior: Smoking
+DiagnosticTool: X-ray
+CompositeDisease: Either Tuberculosis or Lung Cancer

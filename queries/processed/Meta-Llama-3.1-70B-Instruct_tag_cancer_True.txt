@@ -1,0 +1,6 @@
+Disease:Cancer,Dyspnoea
+Health_Issue:Cancer,Dyspnoea,Pollution
+Environmental:Pollution
+Lifestyle:Smoker
+Medical_Test:Xray
+Health_Problem:Dyspnoea,Cancer,Pollution,Smoker

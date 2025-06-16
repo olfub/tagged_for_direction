@@ -1,0 +1,13 @@
+Geography:asia
+Disease:tub,lung,bronc
+Respiratory:tub,lung,bronc
+Diagnosis:xray
+RiskFactor:smoke
+Symptom:either
+Imaging:xray
+Region:asia
+HealthCondition:tub,lung,bronc
+Lifestyle:smoke
+Detection:xray
+Pulmonary:tub,lung,bronc
+BinaryCondition:either

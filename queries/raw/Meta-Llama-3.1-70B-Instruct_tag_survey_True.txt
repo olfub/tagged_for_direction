@@ -1,0 +1,6 @@
+Demographic: Age, Sex
+PersonAttribute: Age, Sex, Education
+SocioEconomic: Education, Occupation
+Location: Residence
+PersonalChoice: Education, Occupation, Residence
+HumanAttribute: Age, Sex, Education, Occupation

@@ -1,0 +1,13 @@
+OxygenLevel: HypoxiaInO2, LowerBodyO2, RUQO2
+RespiratoryIssue: Grunting, LungParench, LungFlow
+MedicalImaging: ChestXray, XrayReport
+GasMeasurement: CO2, CO2Report
+CardiovascularIssue: LVH, LVHreport, CardiacMixing, DuctFlow
+DiseaseIndicator: Disease, Sick
+PatientCharacteristic: Age, BirthAsphyxia
+MedicalReport: GruntingReport, CO2Report, XrayReport, LVHreport
+BloodFlow: LowerBodyO2, RUQO2, DuctFlow
+DiagnosticTool: ChestXray, XrayReport, CO2Report
+HealthStatus: Sick, Disease, Grunting 
+OxygenSupply: HypDistrib, HypoxiaInO2 
+NeonatalCondition: BirthAsphyxia, Grunting, LVH

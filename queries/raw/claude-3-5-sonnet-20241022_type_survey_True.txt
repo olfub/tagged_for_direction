@@ -1,0 +1,5 @@
+Demographic: Age, Sex
+Education_Status: Education
+Employment: Occupation
+Location: Residence
+Activity: Travel

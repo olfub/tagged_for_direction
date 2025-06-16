@@ -1,0 +1,13 @@
+Alcohol_consumption:alcohol,alcoholism
+Liver_condition:PBC,fibrosis,Cirrhosis,Steatosis
+Blood_component:platelet,inr,proteins,albumin,bilirubin,cholesterol,triglycerides
+Liver_enzyme:alt,ast,amylase,phosphatase,ggtp
+Pain:pain,upper_pain,pain_ruq,hepatalgia,itching,pressure_ruq
+Disease:ChHepatitis,THepatitis,RHepatitis,carcinoma,gallstones,diabetes,obesity,Hyperbilirubinemia
+Blood_test:hbsag,hbsag_anti,hbc_anti,hcv_anti,hbeag
+Demographics:age,sex
+Symptom:fatigue,anorexia,nausea,flatulence,edema,jaundice,encephalopathy,ascites,urea,bleeding,spiders
+Liver_characteristic:hepatomegaly,irregular_liver,density,ama,le_cells,edge
+Procedure:surgery,choledocholithotomy,injections,transfusion
+Inflammation:ESR
+Body_part:skin,joints,spleen,palms

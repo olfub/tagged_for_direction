@@ -1,0 +1,11 @@
+Disease:alcoholism,THepatitis,ChHepatitis,PBC,fibrosis,diabetes,obesity,Steatosis,Cirrhosis,Hyperbilirubinemia,RHepatitis,carcinoma
+Symptom:fatigue,itching,upper_pain,pain_ruq,pressure_ruq,pain,edema,bleeding,flatulence,encephalopathy,anorexia,nausea,consciousness,spiders,jaundice,palms
+Procedure:surgery,choledocholithotomy,injections,transfusion
+Demographic:sex,age
+Condition:hepatotoxic,gallstones
+Measurement:triglycerides,bilirubin,phosphatase,proteins,platelet,inr,urea,density,ESR,alt,ast,amylase,ggtp,cholesterol,albumin
+Substance:alcohol,fat
+Organ:hospital,skin,joints,spleen,edge,irregular_liver
+Antigen:hbsag,hbsag_anti,hbc_anti,hcv_anti,hbeag
+Autoantibody:ama,le_cells
+Sign:hepatomegaly,hepatalgia,ascites

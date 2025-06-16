@@ -1,0 +1,5 @@
+Geographic Location:asia
+Disease:tub,lung,bronc
+Medical Test:xray
+Behavior:smoke
+Composite Outcome:either

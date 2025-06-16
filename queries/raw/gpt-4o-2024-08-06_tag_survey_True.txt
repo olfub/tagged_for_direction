@@ -1,0 +1,8 @@
+Demographic: Age, Sex, Education, Occupation, Residence  
+Personal: Age, Sex, Education, Occupation  
+Location: Residence, Travel  
+Mobility: Travel  
+Socioeconomic: Education, Occupation  
+Identity: Age, Sex  
+Lifestyle: Occupation, Travel  
+Geographic: Residence

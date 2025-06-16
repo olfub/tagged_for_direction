@@ -1,0 +1,7 @@
+Causal:Burglary,Earthquake,Alarm
+Effect:JohnCalls,MaryCalls
+Trigger:Alarm
+Event:Burglary,Earthquake
+Observer:JohnCalls,MaryCalls
+Direct:Alarm,JohnCalls,MaryCalls
+Indirect:Burglary,Earthquake,JohnCalls,MaryCalls

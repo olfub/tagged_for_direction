@@ -1,0 +1,7 @@
+Geographical:asia
+Disease:tub,lung,either,bronc
+Behavioral:smoke
+MedicalTest:xray
+RespiratoryCondition:bronc,lung,either
+Cancer:lung,either
+Infectious:tub,either

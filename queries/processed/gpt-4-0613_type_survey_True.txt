@@ -1,0 +1,5 @@
+Demographic:A,S
+Educational:E
+Professional:O
+Geographical:R
+Behavioral:t

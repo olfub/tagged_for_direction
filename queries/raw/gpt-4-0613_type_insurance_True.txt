@@ -1,0 +1,8 @@
+PersonalAttributes: GoodStudent, Age, SocioEcon, RiskAversion, DrivingSkill, DrivHist, SeniorTrain
+VehicleCharacteristics: VehicleYear, RuggedAuto, MakeModel, Mileage, Cushioning, Airbag
+VehicleCosts: ThisCarCost, OtherCarCost, CarValue
+AccidentDetails: ThisCarDam, Accident, PropCost, MedCost, ILiCost
+SafetyFeatures: Antilock, AntiTheft
+InsuranceDetails: Theft, HomeBase
+OtherVehicleDetails: OtherCar
+DrivingQuality: DrivQuality

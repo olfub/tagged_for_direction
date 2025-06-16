@@ -1,0 +1,4 @@
+Geographical Region:asia
+Disease:tub,lung,either,bronc
+Lifestyle Factor:smoke
+Diagnostic Tool:xray

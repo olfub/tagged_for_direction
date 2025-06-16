@@ -1,0 +1,10 @@
+Disease: Tuberculosis, Lung Cancer, Bronchitis, Either Tuberculosis or Lung Cancer
+Geographic: Asia
+Risk_Factor: Smoking
+Diagnostic_Tool: X-ray
+Respiratory_Issue: Tuberculosis, Lung Cancer, Bronchitis
+Health_Concern: Tuberculosis, Lung Cancer, Bronchitis, Either Tuberculosis or Lung Cancer, Smoking
+Medical_Condition: Tuberculosis, Lung Cancer, Bronchitis, Either Tuberculosis or Lung Cancer 
+Cancer: Lung Cancer
+Infection: Tuberculosis, Bronchitis 
+Screening_Method: X-ray

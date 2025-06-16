@@ -1,0 +1,24 @@
+disease_condition: alcoholism, THepatitis, ChHepatitis, PBC, fibrosis, diabetes, obesity, Steatosis, Cirrhosis, Hyperbilirubinemia, RHepatitis, encephalopathy, carcinoma
+medical_procedure: vh_amn, surgery, choledocholithotomy, transfusion, injections
+hospital_related: hospital
+symptoms: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, pain, edema, flatulence, hepatalgia, anorexia, nausea, consciousness, jaundice
+body_part: skin, joints, spleen
+blood_related: bilirubin, triglycerides, platelet, inr, bleeding, albumin, ESR, alt, ast, amylase, ggtp, cholesterol, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+lifestyle: alcohol
+body_condition: fat, density, ascites, hepatomegaly, irregular_liver, palms
+liver_related: hepatotoxic, gallstones, le_cells, phosphatase, ama
+visual_symptoms: spiders
+demographics: sex, age
+digestive_issues: flatulence
+mental_state: encephalopathy
+kidney_related: urea
+physical_exam: edge
+appetite_related: anorexia
+nausea_vomiting: nausea
+consciousness_related: consciousness
+spleen_related: spleen
+skin_related: spiders, palms
+hepatitis_markers: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+liver_edge: edge
+liver_texture: irregular_liver
+proteins: proteins

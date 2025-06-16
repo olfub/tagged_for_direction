@@ -1,0 +1,4 @@
+Disease:Cancer,Dyspnoea
+Health_Habit:Smoker
+Medical_Test:Xray
+Environmental_Factor:Pollution

@@ -1,0 +1,11 @@
+Demographics: Age, SocioEcon  
+Personality: RiskAversion  
+VehicleCharacteristics: VehicleYear, MakeModel, RuggedAuto, Mileage, CarValue  
+VehicleCondition: ThisCarDam, ThisCarCost, OtherCarCost, OtherCar  
+SafetyFeatures: Antilock, Airbag, Cushioning, AntiTheft  
+DrivingSkills: DrivQuality, DrivingSkill, SeniorTrain  
+DrivingHistory: DrivHist, Accident  
+Location: HomeBase  
+TheftRisk: Theft  
+InsuranceCost: PropCost, MedCost, ILiCost  
+StudentStatus: GoodStudent

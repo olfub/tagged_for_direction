@@ -1,0 +1,12 @@
+Health_Issue: Anxiety, Attention_Disorder, Allergy, Fatigue, Lung_Cancer
+Habit: Smoking, Coughing
+Physical_Characteristic: Yellow_Fingers
+Influence: Peer_Pressure, Genetics
+Event: Car_Accident, Born_an_Even_Day
+Symptom: Coughing, Fatigue, Yellow_Fingers
+Mental_Health: Anxiety, Attention_Disorder
+Behavior: Smoking, Peer_Pressure
+Medical_Condition: Lung_Cancer, Allergy, Attention_Disorder 
+Genetic_Factor: Genetics 
+Accident: Car_Accident 
+Chronic_Condition: Lung_Cancer, Allergy, Attention_Disorder, Anxiety

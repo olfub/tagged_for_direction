@@ -1,0 +1,6 @@
+Condition: BirthAsphyxia, Disease, Sick
+Measurement: HypDistrib, HypoxiaInO2, CO2, LowerBodyO2, RUQO2, DuctFlow, CardiacMixing, LungFlow
+PhysicalSymptom: Grunting, LVH, LungParench
+DiagnosticImage: ChestXray
+Report: LVHreport, CO2Report, XrayReport, GruntingReport
+Demographic: Age

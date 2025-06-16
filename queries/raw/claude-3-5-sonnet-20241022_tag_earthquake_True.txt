@@ -1,0 +1,11 @@
+event: Burglary, Earthquake
+alert_system: Alarm
+communication: JohnCalls, MaryCalls
+human_action: JohnCalls, MaryCalls
+response: Alarm, JohnCalls, MaryCalls
+external_trigger: Burglary, Earthquake
+security_related: Burglary, Alarm
+emergency: Earthquake, Alarm
+notification: JohnCalls, MaryCalls, Alarm
+physical_occurrence: Burglary, Earthquake
+person_specific: JohnCalls, MaryCalls

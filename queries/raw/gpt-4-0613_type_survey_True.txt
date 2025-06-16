@@ -1,0 +1,5 @@
+Demographic: Age, Sex
+Educational: Education
+Professional: Occupation
+Geographical: Residence
+Behavioral: Travel

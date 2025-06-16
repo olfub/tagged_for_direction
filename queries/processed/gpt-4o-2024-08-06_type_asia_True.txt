@@ -1,0 +1,5 @@
+Geographical:asia
+Disease:tub,lung,bronc
+Behavioral:smoke
+Diagnostic:xray
+Composite Condition:either

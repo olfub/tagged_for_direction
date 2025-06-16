@@ -1,0 +1,13 @@
+Geographical:asia
+Disease:tub,lung,bronc,either
+Lifestyle:smoke
+Cancer:lung
+Diagnostic Tool:xray
+Respiratory Condition:tub,lung,bronc
+Risk Factor:smoke
+Binary:either
+Infectious:tub
+Non-Infectious:lung,bronc
+Smoking-Related:smoke,lung,bronc
+Medical Condition:tub,lung,bronc,either
+Radiology:xray

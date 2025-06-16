@@ -1,0 +1,15 @@
+Health:Smoking,Yellow_Fingers,Anxiety,Fatigue,Allergy,Coughing,Lung_Cancer
+Behavior:Smoking,Peer_Pressure
+Genetic:Genetics,Attention_Disorder
+Mental_Health:Anxiety,Attention_Disorder
+Physical_Symptom:Yellow_Fingers,Fatigue,Coughing
+Environmental:Peer_Pressure,Car_Accident
+Accident:Car_Accident
+Disease:Allergy,Lung_Cancer
+Respiratory:Coughing,Lung_Cancer
+Risk_Factor:Smoking,Peer_Pressure,Genetics
+Congenital:Genetics,Born_an_Even_Day
+Day_of_Birth:Born_an_Even_Day
+Stress:Anxiety,Fatigue
+Substance_Use:Smoking
+Cancer:Lung_Cancer

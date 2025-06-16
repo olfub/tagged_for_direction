@@ -1,0 +1,4 @@
+EnvironmentalFactor: Pollution
+BehavioralFactor: Smoker
+HealthCondition: Cancer, Dyspnoea
+MedicalTest: Xray

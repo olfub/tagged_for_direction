@@ -1,0 +1,31 @@
+ApplicationStatus: AppOK, AppData, DSApplctn, AppDtGnTm
+DataFileStatus: DataFile, PrtFile
+DiskStatus: DskLocal
+PrinterSpoolerStatus: PrtSpool, PrtQueue
+PrinterStatus: PrtOn, PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff
+NetworkStatus: NetPrint, NtwrkCnfg, NetOK, NtSpd
+DriverStatus: PrtDriver, DrvSet, DrvOK, GrphcsRltdDrvrSttngs
+ThreadStatus: PrtThread
+GraphicsStatus: EMFOK, GDIIN, GDIOUT, EPSGrphc, NnPSGrphc, PSGRAPHIC, GrbldPS, IncmpltPS
+PrinterSelection: PrtSel, PrtMpTPth
+PrinterDataOutput: PrtDataOut, PrtPath, PrtData
+NetworkConfiguration: DS_NTOK, DS_LCLOK, PC2PRT
+CableStatus: PrtCbl, CblPrtHrdwrOK
+LocalStatus: LclOK, DS_LCLOK
+MemoryStatus: PrtMem, AvlblVrtlMmry, PSERRMEM
+TimeoutStatus: PrtTimeOut
+BufferStatus: FllCrrptdBffr
+SupplyStatus: TnrSpply
+ProblemStatus: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6
+PrintProcessTime: PrntPrcssTm, DeskPrntSpd
+PageOrientationStatus: PgOrnttnOK
+PrintingAreaStatus: PrntngArOK
+FontStatus: ScrnFntNtPrntrFnt, TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK
+OutputStatus: CmpltPgPrntd, GrbldOtpt
+HourglassDuration: HrglssDrtnAftrPrnt
+RepeatStatus: REPEAT
+TestStatus: TstpsTxt
+IconStatus: PrtIcon
+GarbledStatus: LclGrbld, NtGrbld
+PrinterScriptStatus: PrtPScript
+OfflineStatus: PTROFFLINE

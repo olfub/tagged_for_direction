@@ -1,0 +1,8 @@
+MedicalCondition:BirthAsphyxia,HypoxiaInO2,LVH,DuctFlow,CardiacMixing,LungParench,LungFlow,Disease,Sick
+PhysiologicalMeasurement:CO2,LowerBodyO2,RUQO2
+DiagnosticImage:ChestXray,XrayReport
+Symptom:Grunting,GruntingReport
+ClinicalFinding:LVHreport,CO2Report
+AnatomicalRegion:HypDistrib
+Report:XrayReport,LVHreport,CO2Report,GruntingReport
+Demographic:Age

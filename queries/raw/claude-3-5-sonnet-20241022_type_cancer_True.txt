@@ -1,0 +1,5 @@
+Disease: Cancer
+Symptom: Dyspnoea
+Behavior: Smoker
+Environment: Pollution
+Test: Xray

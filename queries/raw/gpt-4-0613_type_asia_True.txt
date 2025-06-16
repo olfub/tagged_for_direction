@@ -1,0 +1,4 @@
+Geographical Region: Asia
+Disease: Tuberculosis, Lung Cancer, Either Tuberculosis or Lung Cancer, Bronchitis
+Lifestyle Factor: Smoking
+Diagnostic Tool: X-ray

@@ -1,0 +1,7 @@
+VehicleProperty: VehicleYear, MakeModel, Mileage, Antilock, CarValue, Theft, OtherCar
+DriverProperty: GoodStudent, Age, SocioEcon, RiskAversion, DrivingSkill, DrivHist
+DriverTraining: SeniorTrain
+VehicleDamage: ThisCarDam, ThisCarCost
+Cost: PropCost, OtherCarCost, MedCost, ILiCost, HomeBase
+SafetyFeature: RuggedAuto, Cushioning, Airbag, AntiTheft
+Event: Accident

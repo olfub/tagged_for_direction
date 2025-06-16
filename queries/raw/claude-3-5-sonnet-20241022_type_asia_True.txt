@@ -1,0 +1,5 @@
+Location: Asia
+Disease: Tuberculosis, Lung Cancer, Bronchitis
+Behavior: Smoking
+Symptom: Either Tuberculosis or Lung Cancer
+Diagnostic: X-ray

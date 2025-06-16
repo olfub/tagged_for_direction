@@ -1,0 +1,17 @@
+AppStatus:AppOK,EMFOK,DrvOK,CblPrtHrdwrOK,LclOK,NetOK,TTOK,NnTTOK,PrtThread,PrtDriver,PrtStatOff
+PrinterSelection:PrtSel,PrtSpool,PrtOn,PrtPaper,PrtCbl,PrtPort
+DataFile:DataFile,PrtFile,PrtIcon,PrtPath,PrtMpTPth
+PrintData:PrtData,PrtDataOut,PSGRAPHIC,GrphcsRltdDrvrSttngs,EPSGrphc,NnPSGrphc,PrtPScript
+NetworkStatus:NtwrkCnfg,NetPrint,PTROFFLINE,PC2PRT,NtSpd
+PrintQueue:PrtQueue,PrtStatPaper,PrtStatToner,PrtStatMem
+LocalDisk:DskLocal,DS_NTOK,DS_LCLOK,DSApplctn
+ApplicationData:AppData,AppDtGnTm
+PrintStatus:PrntPrcssTm,PrntngArOK,ScrnFntNtPrntrFnt,CmpltPgPrntd,PrtStatPaper,PrtStatToner,PrtStatMem
+Memory:AvlblVrtlMmry,PSERRMEM,PrtMem
+PrintSettings:TrTypFnts,FntInstlltn,PrntrAccptsTrtyp,PgOrnttnOK
+PrintDriver:PrtDriver,DrvSet,GDIIN,GDIOUT,GrbldPS,IncmpltPS,HrglssDrtnAftrPrnt
+Problem:Problem1,Problem2,Problem3,Problem4,Problem5,Problem6
+PrintTimeout:PrtTimeOut,REPEAT,TstpsTxt
+PrinterHardware:TnrSpply,PrtMpTPth,FllCrrptdBffr
+Graphics:GrphcsRltdDrvrSttngs,EPSGrphc,NnPSGrphc,PSGRAPHIC
+StatusMonitor:PrtStatOff,PrtStatPaper,PrtStatToner,PrtStatMem,PTROFFLINE

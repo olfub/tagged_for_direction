@@ -1,0 +1,10 @@
+Disease:tub,lung,bronc,either
+Geographic:asia
+Risk_Factor:smoke
+Diagnostic_Tool:xray
+Respiratory_Issue:tub,lung,bronc
+Health_Concern:tub,lung,bronc,either,smoke
+Medical_Condition:tub,lung,bronc,either
+Cancer:lung
+Infection:tub,bronc
+Screening_Method:xray

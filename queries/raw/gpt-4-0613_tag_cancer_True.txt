@@ -1,0 +1,19 @@
+Health-related: Cancer, Dyspnoea, Smoker
+Environmental-factor: Pollution
+Diagnostic-tool: Xray
+Lifestyle-factor: Smoker
+Disease-symptom: Dyspnoea
+Disease: Cancer
+Radiation-exposure: Xray
+Air-quality: Pollution
+Habit: Smoker
+Medical-condition: Cancer, Dyspnoea
+Risk-factor: Smoker, Pollution
+Physical-examination: Xray
+Respiratory-condition: Dyspnoea
+Carcinogen-exposure: Smoker, Pollution
+Medical-imaging: Xray
+Air-pollutant: Pollution
+Tobacco-use: Smoker
+Malignant-disease: Cancer
+Breathing-difficulty: Dyspnoea

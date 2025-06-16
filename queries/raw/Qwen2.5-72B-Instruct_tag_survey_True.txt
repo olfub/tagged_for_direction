@@ -1,0 +1,6 @@
+Demographic:Age,Sex,Education,Residence
+Socioeconomic:Education,Occupation,Residence
+Geographic:Residence,Travel
+Temporal:Age,Travel
+Biological:Sex,Age
+Cultural:Education,Occupation,Residence,Travel

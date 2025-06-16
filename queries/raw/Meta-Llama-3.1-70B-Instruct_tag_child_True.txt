@@ -1,0 +1,12 @@
+OxygenSupply: HypoxiaInO2, LowerBodyO2, RUQO2
+OxygenLevel: CO2, CO2Report
+DiagnosticReport: ChestXray, CO2Report, GruntingReport, LVHreport, XrayReport
+ClinicalSign: Grunting
+Diagnosis: Disease
+Age: Age
+CardiacCondition: CardiacMixing, LVH
+Flow: DuctFlow, LungFlow
+LungCondition: LungParench
+Asphyxia: BirthAsphyxia
+Oxygenation: HypDistrib
+Variable: Sick

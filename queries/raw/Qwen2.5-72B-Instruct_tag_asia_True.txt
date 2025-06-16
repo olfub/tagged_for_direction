@@ -1,0 +1,7 @@
+Geographical: Asia
+Disease: Tuberculosis, Lung Cancer, Either Tuberculosis or Lung Cancer, Bronchitis
+Behavioral: Smoking
+MedicalTest: X-ray
+RespiratoryCondition: Bronchitis, Lung Cancer, Either Tuberculosis or Lung Cancer
+Cancer: Lung Cancer, Either Tuberculosis or Lung Cancer
+Infectious: Tuberculosis, Either Tuberculosis or Lung Cancer

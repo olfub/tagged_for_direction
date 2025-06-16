@@ -1,0 +1,8 @@
+Cost: PropCost, ILiCost, ThisCarCost, OtherCarCost, Theft, MedCost, Antilock, AntiTheft, Airbag
+AutoCharacter: VehicleYear, MakeModel, DrivQuality, RuggedAuto, Mileage, Cushioning, Airbag
+Skill: GoodStudent, DrivingSkill, SeniorTrain
+Event: Accident
+Demographic: Age, SocioEcon, HomeBase
+Property: CarValue, OtherCar
+Protection: Antilock, AntiTheft, Airbag, Cushioning
+Damage: ThisCarDam

@@ -1,0 +1,7 @@
+behavior:Smoking,Peer_Pressure
+physical_symptom:Yellow_Fingers,Fatigue,Coughing
+mental_condition:Anxiety,Attention_Disorder
+biological_factor:Genetics
+random_event:Born_an_Even_Day
+accident:Car_Accident
+medical_condition:Allergy,Lung_Cancer

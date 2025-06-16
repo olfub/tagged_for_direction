@@ -1,0 +1,8 @@
+Disease_Condition: alcoholism, THepatitis, ChHepatitis, PBC, fibrosis, diabetes, obesity, Steatosis, Cirrhosis, Hyperbilirubinemia, RHepatitis, hepatotoxic
+Medical_Procedure: vh_amn, surgery, choledocholithotomy, transfusion, injections
+Demographics: sex, age
+Symptoms: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, pain, edema, flatulence, anorexia, nausea, consciousness, hepatalgia
+Body_Part: hospital, gallstones, skin, joints, spleen, palms
+Lab_Test: bilirubin, triglycerides, phosphatase, ama, le_cells, proteins, platelet, inr, urea, alt, ast, amylase, ggtp, cholesterol, hbsag, hbsag_anti, albumin, hbc_anti, hcv_anti, hbeag
+Physical_Characteristics: fat, density, irregular_liver, edge
+Clinical_Signs: bleeding, alcohol, encephalopathy, ascites, hepatomegaly, spiders, jaundice, carcinoma

@@ -1,0 +1,8 @@
+Demographic:A,S,E,O,R
+Personal:A,S,E,O
+Location:R,t
+Mobility:t
+Socioeconomic:E,O
+Identity:A,S
+Lifestyle:O,t
+Geographic:R

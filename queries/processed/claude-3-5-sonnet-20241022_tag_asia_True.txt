@@ -1,0 +1,14 @@
+disease:tub,lung,bronc
+symptom:either,bronc
+diagnostic_test:xray
+location:asia
+behavior:smoke
+respiratory:tub,lung,bronc
+medical_condition:tub,lung,either,bronc
+risk_factor:smoke
+geographical:asia
+binary_outcome:either,xray
+observable:smoke,xray,bronc
+latent:tub,lung
+chronic:bronc,lung
+infectious:tub

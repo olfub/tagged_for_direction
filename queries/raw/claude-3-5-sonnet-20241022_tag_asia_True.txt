@@ -1,0 +1,14 @@
+disease: Tuberculosis, Lung Cancer, Bronchitis
+symptom: Either Tuberculosis or Lung Cancer, Bronchitis
+diagnostic_test: X-ray
+location: Asia
+behavior: Smoking
+respiratory: Tuberculosis, Lung Cancer, Bronchitis
+medical_condition: Tuberculosis, Lung Cancer, Either Tuberculosis or Lung Cancer, Bronchitis
+risk_factor: Smoking
+geographical: Asia
+binary_outcome: Either Tuberculosis or Lung Cancer, X-ray
+observable: Smoking, X-ray, Bronchitis
+latent: Tuberculosis, Lung Cancer
+chronic: Bronchitis, Lung Cancer
+infectious: Tuberculosis

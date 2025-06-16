@@ -1,0 +1,5 @@
+Demographic:A,S
+Education_Status:E
+Employment:O
+Location:R
+Activity:t

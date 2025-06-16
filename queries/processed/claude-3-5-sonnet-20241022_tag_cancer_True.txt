@@ -1,0 +1,14 @@
+health_condition:Cancer,Dyspnoea
+environmental_factor:Pollution
+behavior:Smoker
+diagnostic_test:Xray
+respiratory:Dyspnoea
+carcinogenic:Pollution,Smoker
+symptom:Dyspnoea
+medical_evidence:Xray,Dyspnoea
+risk_factor:Pollution,Smoker
+observable:Xray,Dyspnoea
+causal_agent:Pollution,Smoker
+medical_condition:Cancer,Dyspnoea
+disease:Cancer
+external_factor:Pollution,Smoker

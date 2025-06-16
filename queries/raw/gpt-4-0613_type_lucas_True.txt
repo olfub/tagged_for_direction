@@ -1,0 +1,7 @@
+Health_Conditions: Anxiety, Attention_Disorder, Allergy, Lung_Cancer, Fatigue, Coughing
+Habits: Smoking
+Physical_Signs: Yellow_Fingers
+Social_Influences: Peer_Pressure
+Genetic_Factors: Genetics
+Random_Factors: Born_an_Even_Day
+Accidents: Car_Accident

@@ -1,0 +1,15 @@
+Disease:tub,lung,bronc
+Region:asia
+Healthcare:xray
+Cancer:lung
+Infection:tub,bronc
+Risk Factor:smoke
+Medical Imaging:xray
+Diagnostic:xray
+Location:asia
+Cancer Cause:smoke,lung
+Infectious Disease:tub
+Respiratory Disease:lung,bronc,tub
+Binary Variable:either
+Composite Variable:either
+Smoking Related Disease:lung,bronc

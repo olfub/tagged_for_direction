@@ -1,0 +1,20 @@
+Printing: PrtOn, PrtPaper, PrtSpool, PrtDataOut, PrtPath, PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff
+Network: NetPrint, NetOK, NtwrkCnfg, PTROFFLINE, PrtCbl, PrtPort
+Application: AppOK, AppData, DskLocal, EMFOK, GDIIN, GDIOUT, LclOK
+Driver: PrtDriver, DrvSet, DrvOK, PrtThread
+Graphics: GrphcsRltdDrvrSttngs, EPSGrphc, NnPSGrphc, PrtPScript, PSGRAPHIC
+Error: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM
+Font: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK
+Queue: PrtQueue, PrtMpTPth
+Status: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff, PrtOn, PrtOK
+Configuration: NtwrkCnfg, PrtSel, PrtPath, PrtPort, PrtCbl
+Memory: AvlblVrtlMmry, PrtMem, PSERRMEM
+Time: AppDtGnTm, PrntPrcssTm, DeskPrntSpd, PrtTimeOut
+Hardware: TnrSpply, CblPrtHrdwrOK, LclGrbld, NtGrbld
+File: DataFile, PrtFile, PrtIcon
+Page: PgOrnttnOK, PrntngArOK, ScrnFntNtPrntrFnt, CmpltPgPrntd
+DS: DSApplctn, DS_NTOK, DS_LCLOK 
+PC2PRT: PC2PRT
+Buffer: FllCrrptdBffr, IncmpltPS, GrbldPS, GrbldOtpt 
+Repeat: REPEAT 
+Test: TstpsTxt

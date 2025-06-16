@@ -1,0 +1,15 @@
+Disease: Tuberculosis, Lung Cancer, Bronchitis
+Region: Asia
+Healthcare: X-ray
+Cancer: Lung Cancer
+Infection: Tuberculosis, Bronchitis
+Risk Factor: Smoking
+Medical Imaging: X-ray
+Diagnostic: X-ray
+Location: Asia
+Cancer Cause: Smoking, Lung Cancer
+Infectious Disease: Tuberculosis
+Respiratory Disease: Lung Cancer, Bronchitis, Tuberculosis
+Binary Variable: Either Tuberculosis or Lung Cancer 
+Composite Variable: Either Tuberculosis or Lung Cancer 
+Smoking Related Disease: Lung Cancer, Bronchitis

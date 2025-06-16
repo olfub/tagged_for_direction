@@ -1,0 +1,12 @@
+Demographic: Age, Sex, Education, Occupation, Residence
+Biological: Age, Sex
+Socioeconomic: Education, Occupation, Residence
+Geographical: Residence, Travel
+Professional: Occupation
+Temporal: Age
+Mobility: Travel
+Educational: Education
+Residential: Residence
+Gender: Sex
+Occupational: Occupation
+Travel-related: Travel

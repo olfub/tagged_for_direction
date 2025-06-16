@@ -1,0 +1,18 @@
+PrintStatus: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff
+PrintQueue: PrtQueue, NetPrint, PrtSpool
+PrinterHardware: PrtCbl, PrtPort, CblPrtHrdwrOK, TnrSpply
+PrinterDriver: PrtDriver, DrvSet, DrvOK, GrphcsRltdDrvrSttngs
+PrintJob: PrtData, PrtDataOut, PrtFile, PrtIcon
+NetworkStatus: NetOK, NtwrkCnfg, DS_NTOK, NtSpd
+PrintSettings: PrtSel, PrtPath, PrtMpTPth, PC2PRT
+ApplicationStatus: AppOK, AppDtGnTm, LclOK, DSApplctn
+Graphics: EPSGrphc, NnPSGrphc, PrtPScript, PSGRAPHIC
+Font: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK
+Error: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM
+PrintingProcess: PrntPrcssTm, DeskPrntSpd, PgOrnttnOK, PrntngArOK
+Memory: AvlblVrtlMmry, PrtMem, FllCrrptdBffr
+PrintThread: PrtThread, PrtTimeOut
+LocalStatus: DskLocal, LclGrbld, DS_LCLOK
+GDI: GDIIN, GDIOUT
+EMF: EMFOK
+Paper: PrtPaper, PrtOn, PTROFFLINE

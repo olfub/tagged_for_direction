@@ -1,0 +1,8 @@
+Event: Burglary, Earthquake, Alarm  
+NaturalDisaster: Earthquake  
+Security: Burglary, Alarm  
+Notification: Alarm, JohnCalls, MaryCalls  
+HumanResponse: JohnCalls, MaryCalls  
+Emergency: Alarm  
+Communication: JohnCalls, MaryCalls  
+Detection: Alarm

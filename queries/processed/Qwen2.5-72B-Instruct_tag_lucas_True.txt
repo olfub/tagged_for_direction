@@ -1,0 +1,12 @@
+Behavioral:Smoking,Yellow_Fingers,Anxiety,Peer_Pressure
+Psychological:Anxiety,Attention_Disorder,Fatigue
+Social:Peer_Pressure
+Biological:Genetics,Allergy,Lung_Cancer
+Health_Status:Fatigue,Allergy,Coughing,Lung_Cancer
+Accidental:Car_Accident
+Temporal:Born_an_Even_Day
+Lifestyle:Smoking,Yellow_Fingers
+Symptomatic:Coughing,Fatigue,Allergy
+Pathological:Lung_Cancer
+Risk_Factor:Smoking,Genetics,Peer_Pressure
+INCIDENTAL:Born_an_Even_Day

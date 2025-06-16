@@ -1,0 +1,17 @@
+demographic: Age, SocioEcon, HomeBase
+personal_trait: GoodStudent, RiskAversion, DrivingSkill
+vehicle_characteristic: VehicleYear, RuggedAuto, MakeModel, Antilock, Airbag, CarValue
+safety_feature: Antilock, Airbag, AntiTheft, Cushioning
+driving_record: DrivHist, DrivQuality, Accident
+training: SeniorTrain, DrivingSkill
+cost_related: ThisCarCost, PropCost, OtherCarCost, ILiCost, MedCost
+damage: ThisCarDam, Accident
+crime: Theft
+vehicle_usage: Mileage
+vehicle_involvement: ThisCarDam, OtherCar
+monetary_value: CarValue, PropCost, OtherCarCost, MedCost, ILiCost
+location_based: HomeBase
+skill_indicator: GoodStudent, DrivingSkill
+risk_factor: RiskAversion, DrivHist, Accident
+protective_measure: AntiTheft, Antilock, Airbag, Cushioning
+vehicle_status: VehicleYear, Mileage, CarValue

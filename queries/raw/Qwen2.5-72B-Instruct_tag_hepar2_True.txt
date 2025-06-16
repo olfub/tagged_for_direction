@@ -1,0 +1,18 @@
+medical_condition: alcoholism, hepatotoxic, THepatitis, ChHepatitis, PBC, fibrosis, diabetes, obesity, Steatosis, Cirrhosis, Hyperbilirubinemia, RHepatitis, fatigue, itching, upper_pain, pain_ruq, pressure_ruq, edema, bleeding, alcohol, encephalopathy, ascites, hepatomegaly, hepatalgia, ESR, alt, ast, amylase, ggtp, cholesterol, hbsag, hbsag_anti, anorexia, nausea, spleen, consciousness, spiders, jaundice, albumin, edge, irregular_liver, hbc_anti, hcv_anti, palms, hbeag, carcinoma
+symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, edema, bleeding, alcohol, encephalopathy, ascites, hepatomegaly, hepatalgia, anorexia, nausea, spleen, consciousness, spiders, jaundice, edge, irregular_liver, palms, hbeag
+laboratory_test: bilirubin, phosphatase, ama, le_cells, proteins, platelet, inr, urea, density, ESR, alt, ast, amylase, ggtp, cholesterol, albumin
+demographic: sex, age
+treatment: hospital, surgery, gallstones, choledocholithotomy, injections, transfusion
+risk_factor: alcoholism, hepatotoxic, alcohol, obesity, diabetes
+enzyme: phosphatase, alt, ast, amylase, ggtp
+viral_infection: THepatitis, ChHepatitis, RHepatitis, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+liver_disease: PBC, fibrosis, Steatosis, Cirrhosis, Hyperbilirubinemia, hepatomegaly, irregular_liver, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag, carcinoma
+complication: encephalopathy, ascites, edema, bleeding, jaundice, spiders, palmar_erythema, anorexia, nausea, consciousness, hepatomegaly, hepatalgia, spleen, irregular_liver, carcinoma
+blood_test: platelet, inr, urea, ESR, cholesterol, albumin, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+abdominal_symptom: upper_pain, pain_ruq, pressure_ruq, hepatomegaly, hepatalgia, spleen, ascites, jaundice, anorexia, nausea, irregular_liver
+skin_symptom: itching, spiders, palmar_erythema, jaundice
+hepatic_function_test: bilirubin, phosphatase, alt, ast, amylase, ggtp, albumin
+metabolic_disorder: diabetes, obesity, Hyperbilirubinemia, cholesterol, triglycerides, steatosis, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag, albumin, irregular_liver, carcinoma
+gastrointestinal_symptom: flatulence, anorexia, nausea, hepatalgia, jaundice, irregular_liver
+neurological_symptom: fatigue, encephalopathy, consciousness, jaundice, irregular_liver
+immunological_test: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
